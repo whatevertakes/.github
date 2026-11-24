@@ -21,7 +21,7 @@ WhateverTakes는 인프라, 시스템 보안, 신규 취약점 탐색을 연구�
 | [choijiwng](https://github.com/choijiwng) | [사이트](https://choijiwng.github.io/) |
 | [holymo-ly](https://github.com/holymo-ly) | [사이트](https://holymo-ly.github.io/) |
 | [JooREC0](https://github.com/JooREC0) | [사이트](https://joorec0.github.io/) |
-| [shyunseok1029](https://github.com/shyunseok1029) | — |
+| [shyunseok1029](https://github.com/shyunseok1029) | [사이트](https://shyunseok1029.github.io/) |
 
 ## 대표 프로젝트
 

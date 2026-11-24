@@ -21,7 +21,7 @@ We are a four-member security research team exploring infrastructure, systems se
 | [choijiwng](https://github.com/choijiwng) | [Site](https://choijiwng.github.io/) |
 | [holymo-ly](https://github.com/holymo-ly) | [Site](https://holymo-ly.github.io/) |
 | [JooREC0](https://github.com/JooREC0) | [Site](https://joorec0.github.io/) |
-| [shyunseok1029](https://github.com/shyunseok1029) | — |
+| [shyunseok1029](https://github.com/shyunseok1029) | [Site](https://shyunseok1029.github.io/) |
 
 ## Selected project
 
