@@ -1,3 +1,5 @@
+**English** | [한국어](https://github.com/whatevertakes/.github/blob/main/profile/README.ko.md)
+
 # WhateverTakes (WT)
 
 **Offensive Security Research Team**
@@ -28,7 +30,3 @@ We are a four-member security research team exploring infrastructure, systems se
 ## Research principles
 
 We distinguish learning notes, reproduced findings, original discoveries and independently validated results. We publish only authorized, reviewed material and coordinate disclosure before releasing sensitive vulnerability details.
-
----
-
-WhateverTakes는 인프라 학습과 신규 취약점 탐색을 연결하는 4인 보안 연구팀입니다. 재현 가능한 실험, 검증된 근거, 책임 있는 공개를 지향합니다.
