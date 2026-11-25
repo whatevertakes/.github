@@ -6,12 +6,12 @@
 
 [Official website & research blog](https://whatevertakes.github.io/) · [Repositories](https://github.com/orgs/whatevertakes/repositories)
 
-We are a four-member offensive security research team combining AI-driven research automation with human technical expertise. We study the software and systems that power enterprise infrastructure, from architecture and internal mechanisms to security boundaries and vulnerability discovery. We aim to produce reproducible research and externally validated security contributions.
+We are a four-member offensive security research team combining AI-driven research automation with human technical expertise. We study modern computing infrastructure and software ecosystems, from infrastructure architecture and system internals to security boundaries and vulnerability discovery across software and services. We aim to produce reproducible research and externally validated security contributions.
 
 ## Research focus
 
 - **Infrastructure & systems:** Operating systems, networking, virtualization, containers, cloud and the architecture and internals of infrastructure products.
-- **Vulnerability research:** Authorized analysis of open-source and commercial infrastructure products, including code review, reverse engineering, fuzzing and coordinated disclosure.
+- **Vulnerability research:** Authorized analysis of open-source and commercial software, systems and services, including code review, reverse engineering, fuzzing and coordinated disclosure.
 - **AI-native security engineering:** Use AI agents and existing validated tools to automate research, development and experiments; improve tools and methods when evidence identifies limitations.
 
 ## Research methodology
