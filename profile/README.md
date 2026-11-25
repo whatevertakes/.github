@@ -2,17 +2,23 @@
 
 # WhateverTakes (WT)
 
-**Offensive Security Research Team**
+**AI-Native Offensive Security Research Team**
 
 [Official website & research blog](https://whatevertakes.github.io/) · [Repositories](https://github.com/orgs/whatevertakes/repositories)
 
-We are a four-member security research team exploring infrastructure, systems security, and vulnerability discovery. We aim to turn hands-on learning into reproducible research and externally validated contributions.
+We are a four-member offensive security research team combining AI-driven research automation with human technical expertise. We study the software and systems that power enterprise infrastructure, from architecture and internal mechanisms to security boundaries and vulnerability discovery. We aim to produce reproducible research and externally validated security contributions.
 
 ## Research focus
 
-- **Infrastructure & systems:** Linux, networking, containers, cloud and security boundaries.
-- **Vulnerability research:** authorized testing, open-source code review, fuzzing and responsible disclosure.
-- **Security engineering:** reproducible environments, evidence-driven experiments and AI-assisted research with human verification.
+- **Infrastructure & systems:** Operating systems, networking, virtualization, containers, cloud and the architecture and internals of infrastructure products.
+- **Vulnerability research:** Authorized analysis of open-source and commercial infrastructure products, including code review, reverse engineering, fuzzing and coordinated disclosure.
+- **AI-native security engineering:** Use AI agents and existing validated tools to automate research, development and experiments; improve tools and methods when evidence identifies limitations.
+
+## Research methodology
+
+AI executes. Humans understand, verify, and advance.
+
+We aim to automate repeatable research and engineering workflows while retaining human responsibility for scope, design decisions, independent verification and disclosure. Members document their technical understanding, evidence and improvements in personal blogs; shared repositories and research reports preserve reproducible results. We pursue original CVEs, eligible bug bounties and accepted upstream security contributions without claiming unconfirmed outcomes.
 
 ## Members
 
@@ -21,7 +27,7 @@ We are a four-member security research team exploring infrastructure, systems se
 | [choijiwng](https://github.com/choijiwng) | [Site](https://choijiwng.github.io/) |
 | [holymo-ly](https://github.com/holymo-ly) | [Site](https://holymo-ly.github.io/) |
 | [JooREC0](https://github.com/JooREC0) | [Site](https://joorec0.github.io/) |
-| [shyunseok1029](https://github.com/shyunseok1029) | — |
+| [shyunseok1029](https://github.com/shyunseok1029) | [Site](https://shyunseok1029.github.io/) |
 
 ## Selected project
 
